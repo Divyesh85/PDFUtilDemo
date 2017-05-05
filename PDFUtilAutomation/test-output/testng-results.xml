@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7911" started-at="2017-05-05T09:30:45Z" finished-at="2017-05-05T09:30:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7911" started-at="2017-05-05T09:30:45Z" finished-at="2017-05-05T09:30:53Z">
+      <class name="com.morningstar.PDFCompareTest">
+        <test-method status="PASS" signature="pdfCompareTest()[pri:0, instance:com.morningstar.PDFCompareTest@6a6824be]" name="pdfCompareTest" duration-ms="7905" started-at="2017-05-05T15:00:45Z" finished-at="2017-05-05T15:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pdfCompareTest -->
+      </class> <!-- com.morningstar.PDFCompareTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
